@@ -1,4 +1,4 @@
-# Hi, I'm Poorshad Shaddel
+# Hi, I'm Poorshad
 
 I am a Full-Stack Developer and I use NodeJS and ReactJS. I love ping pong and I work out few times a week to be in shape :) 
 
