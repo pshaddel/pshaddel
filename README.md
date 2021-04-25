@@ -2,7 +2,7 @@
 
 I am a Full-Stack Developer and I use NodeJS and ReactJS. I love ping pong and I work out few times a week to be in shape :) 
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poorshad/)[![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white")](https://p-shaddel.medium.com/)[![Skype](https://img.shields.io/badge/skype-%2312100E.svg?&style=for-the-badge&logo=skype")](https://join.skype.com/invite/m7RqmeIfrpsm)[![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white")](https://zoom.us/j/7810365053?pwd=aGpNczJtekdNVmpkQmtralEzZnU1UT09)[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white")](mailto:p.shaddel@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poorshad/) [![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white")](https://p-shaddel.medium.com/) [![Skype](https://img.shields.io/badge/skype-%2312100E.svg?&style=for-the-badge&logo=skype&logoColor=white")](https://join.skype.com/invite/m7RqmeIfrpsm) [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white")](https://zoom.us/j/7810365053?pwd=aGpNczJtekdNVmpkQmtralEzZnU1UT09) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white")](mailto:p.shaddel@gmail.com)
 
 - :muscle: Currently working in Telewebion Company with cool teammates.
 - :trophy: 2021 Goals: Contribute and publish more open source projects.
