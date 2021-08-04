@@ -11,3 +11,9 @@ I am a Full-Stack Developer and I use NodeJS and ReactJS. I love ping pong and I
 
 ![NodeJS](https://img.icons8.com/color/30/nodejs.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Gitlab](https://img.icons8.com/color/30/gitlab.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![MongoDB](https://img.icons8.com/color/30/mongodb.png)![Postgres](https://img.icons8.com/color/30/postgresql.png)![ExpressJS](https://img.icons8.com/color/30/express.png)
 </details>
+
+<div style="text-align: center">
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pshaddel">
+    </div>
+</div>
