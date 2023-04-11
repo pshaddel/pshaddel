@@ -19,4 +19,5 @@ With over 5 years of experience as a web developer, I have honed my skills in bo
 ![PostgreSQL](https://img.icons8.com/color/30/postgreesql.png)
 </details>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pshaddel)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pshaddel)](https://github.com/anuraghazra/github-readme-stats)
+ -->
