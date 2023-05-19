@@ -17,7 +17,7 @@ With over 6 years of experience as a web developer, I have honed my skills in bo
 ![MongoDB](https://img.icons8.com/color/30/mongodb.png)
 ![ExpressJS](https://img.icons8.com/color/30/express.png)
 ![PostgreSQL](https://img.icons8.com/color/30/postgreesql.png)
-![Docker](https://imag.icons8.com/color/30/docker.png)
+
 </details>
 
 ## My Articles on Medium
