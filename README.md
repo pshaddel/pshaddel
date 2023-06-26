@@ -22,8 +22,6 @@ With over 6 years of experience as a web developer, I have honed my skills in bo
 
 ## My Latest Articles on Medium
 
-https://p-shaddel.medium.com/mongodb-index-challenge-learn-by-doing-483ed4daf0cb
-
 :bookmark: [mongodb index challenge learn by doing](https://p-shaddel.medium.com/mongodb-index-challenge-learn-by-doing-483ed4daf0cb) 
 
 :bookmark: [how to prevent no sql injection in node js](https://p-shaddel.medium.com/how-to-prevent-no-sql-injection-in-node-js-e743cf7d3771?source=user_profile---------0----------------------------)
