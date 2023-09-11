@@ -22,6 +22,10 @@ With over 6 years of experience as a web developer, I have honed my skills in bo
 
 ## My Latest Articles on Medium
 
+:bookmark: [comparing prisma and mongoose for mongodb a comprehensive analysis](https://p-shaddel.medium.com/comparing-prisma-and-mongoose-for-mongodb-a-comprehensive-analysis-531c656fc118?source=user_profile---------0----------------------------)
+
+🔖 [exploring parallelism and concurrency in node js](https://p-shaddel.medium.com/exploring-parallelism-and-concurrency-in-node-js-4b84c2f397b?source=user_profile---------1----------------------------)
+
 :bookmark: [mongodb index challenge learn by doing](https://p-shaddel.medium.com/mongodb-index-challenge-learn-by-doing-483ed4daf0cb) 
 
 :bookmark: [how to prevent no sql injection in node js](https://p-shaddel.medium.com/how-to-prevent-no-sql-injection-in-node-js-e743cf7d3771?source=user_profile---------0----------------------------)
