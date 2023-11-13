@@ -21,6 +21,10 @@ With over 6 years of experience as a web developer, I have honed my skills in bo
 
 ## My Latest Articles on Medium
 
+:bookmark: [what is session fixation and how to prevent it in nodejs](https://medium.com/gitconnected/what-is-session-fixation-and-how-to-prevent-it-in-node-js-03580b6acd67?source=your_stories_page-------------------------------------)
+
+:bookmark: [implement a simple version control with javascript to understand git better](https://medium.com/gitconnected/implement-a-simple-version-control-with-javascript-to-understand-git-better-2307001dfe00?source=your_stories_page-------------------------------------)
+
 :bookmark: [comparing prisma and mongoose for mongodb a comprehensive analysis](https://p-shaddel.medium.com/comparing-prisma-and-mongoose-for-mongodb-a-comprehensive-analysis-531c656fc118?source=user_profile---------0----------------------------)
 
 🔖 [exploring parallelism and concurrency in node js](https://p-shaddel.medium.com/exploring-parallelism-and-concurrency-in-node-js-4b84c2f397b?source=user_profile---------1----------------------------)
