@@ -21,32 +21,32 @@ With over 6 years of experience as a web developer, I have honed my skills in bo
 
 ## My Latest Articles on Medium
 
-:bookmark: [Could Converting Nodejs Functions to C++ Add-On Boost Your Code Performance
+Mar 24, 2024 :bookmark: [Could Converting Nodejs Functions to C++ Add-On Boost Your Code Performance
 ](https://p-shaddel.medium.com/could-converting-nodejs-functions-to-c-add-on-boost-your-code-performance-988e3cc890c4?source=user_profile---------0----------------------------
 )
 
-:bookmark: [Antipatterns Series with JavaScript Examples: The Blob, The God Class](https://p-shaddel.medium.com/antipatterns-series-with-javascript-examples-the-blob-the-god-class-b2104c1cdfc7?source=user_profile---------1----------------------------
+Mar 08, 2024 :bookmark: [Antipatterns Series with JavaScript Examples: The Blob, The God Class](https://p-shaddel.medium.com/antipatterns-series-with-javascript-examples-the-blob-the-god-class-b2104c1cdfc7?source=user_profile---------1----------------------------
 )
 
-:bookmark: [why implementing your own username password authentication system could be a big mistake](https://p-shaddel.medium.com/why-implementing-your-own-username-password-authentication-system-could-be-a-big-mistake-cdac9d479b14?source=user_profile---------2----------------------------)
+Dec 26, 2023 :bookmark: [why implementing your own username password authentication system could be a big mistake](https://p-shaddel.medium.com/why-implementing-your-own-username-password-authentication-system-could-be-a-big-mistake-cdac9d479b14?source=user_profile---------2----------------------------)
 
-:bookmark: [what is session fixation and how to prevent it in nodejs](https://medium.com/gitconnected/what-is-session-fixation-and-how-to-prevent-it-in-node-js-03580b6acd67?source=your_stories_page-------------------------------------)
+Nov 13, 2023 :bookmark: [what is session fixation and how to prevent it in nodejs](https://medium.com/gitconnected/what-is-session-fixation-and-how-to-prevent-it-in-node-js-03580b6acd67?source=your_stories_page-------------------------------------)
 
-:bookmark: [implement a simple version control with javascript to understand git better](https://medium.com/gitconnected/implement-a-simple-version-control-with-javascript-to-understand-git-better-2307001dfe00?source=your_stories_page-------------------------------------)
+Oct 29, 2023 :bookmark: [implement a simple version control with javascript to understand git better](https://medium.com/gitconnected/implement-a-simple-version-control-with-javascript-to-understand-git-better-2307001dfe00?source=your_stories_page-------------------------------------)
 
-:bookmark: [comparing prisma and mongoose for mongodb a comprehensive analysis](https://p-shaddel.medium.com/comparing-prisma-and-mongoose-for-mongodb-a-comprehensive-analysis-531c656fc118?source=user_profile---------0----------------------------)
+Sep 03, 2023 :bookmark: [comparing prisma and mongoose for mongodb a comprehensive analysis](https://p-shaddel.medium.com/comparing-prisma-and-mongoose-for-mongodb-a-comprehensive-analysis-531c656fc118?source=user_profile---------0----------------------------)
 
-🔖 [exploring parallelism and concurrency in node js](https://p-shaddel.medium.com/exploring-parallelism-and-concurrency-in-node-js-4b84c2f397b?source=user_profile---------1----------------------------)
+Aug 22, 2023 🔖 [exploring parallelism and concurrency in node js](https://p-shaddel.medium.com/exploring-parallelism-and-concurrency-in-node-js-4b84c2f397b?source=user_profile---------1----------------------------)
 
-:bookmark: [mongodb index challenge learn by doing](https://p-shaddel.medium.com/mongodb-index-challenge-learn-by-doing-483ed4daf0cb) 
+Jun 12, 2023 :bookmark: [mongodb index challenge learn by doing](https://p-shaddel.medium.com/mongodb-index-challenge-learn-by-doing-483ed4daf0cb) 
 
-:bookmark: [how to prevent no sql injection in node js](https://p-shaddel.medium.com/how-to-prevent-no-sql-injection-in-node-js-e743cf7d3771?source=user_profile---------0----------------------------)
+May 28, 2023 :bookmark: [how to prevent no sql injection in node js](https://p-shaddel.medium.com/how-to-prevent-no-sql-injection-in-node-js-e743cf7d3771?source=user_profile---------0----------------------------)
 
-:bookmark: [how to prevent ssrf attacks in node js](https://p-shaddel.medium.com/how-to-prevent-ssrf-attacks-in-node-js-50ccbb1c31da?source=user_profile---------1----------------------------)
+May 25, 2023 :bookmark: [how to prevent ssrf attacks in node js](https://p-shaddel.medium.com/how-to-prevent-ssrf-attacks-in-node-js-50ccbb1c31da?source=user_profile---------1----------------------------)
 
-:bookmark: [boost your productivity simple tips for developers](https://p-shaddel.medium.com/boost-your-productivity-simple-tips-for-developers-448724cb1d9c?source=user_profile---------2----------------------------)
+Mar 13, 2023 :bookmark: [boost your productivity simple tips for developers](https://p-shaddel.medium.com/boost-your-productivity-simple-tips-for-developers-448724cb1d9c?source=user_profile---------2----------------------------)
 
-:bookmark: [build your first node js web framework](https://p-shaddel.medium.com/build-your-first-node-js-web-framework-39b3310ed35a?source=user_profile---------3----------------------------)
+Jan 02, 2023 :bookmark: [build your first node js web framework](https://p-shaddel.medium.com/build-your-first-node-js-web-framework-39b3310ed35a?source=user_profile---------3----------------------------)
 
 <!-- :bookmark: [expressjs deep dive](https://p-shaddel.medium.com/expressjs-deep-dive-387f07c50d95?source=user_profile---------4----------------------------)
 
