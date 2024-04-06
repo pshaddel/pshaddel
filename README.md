@@ -21,6 +21,15 @@ With over 6 years of experience as a web developer, I have honed my skills in bo
 
 ## My Latest Articles on Medium
 
+:bookmark: [Could Converting Nodejs Functions to C++ Add-On Boost Your Code Performance
+](https://p-shaddel.medium.com/could-converting-nodejs-functions-to-c-add-on-boost-your-code-performance-988e3cc890c4?source=user_profile---------0----------------------------
+)
+
+:bookmark: [Antipatterns Series with JavaScript Examples: The Blob, The God Class](https://p-shaddel.medium.com/antipatterns-series-with-javascript-examples-the-blob-the-god-class-b2104c1cdfc7?source=user_profile---------1----------------------------
+)
+
+:bookmark: [why implementing your own username password authentication system could be a big mistake](https://p-shaddel.medium.com/why-implementing-your-own-username-password-authentication-system-could-be-a-big-mistake-cdac9d479b14?source=user_profile---------2----------------------------)
+
 :bookmark: [what is session fixation and how to prevent it in nodejs](https://medium.com/gitconnected/what-is-session-fixation-and-how-to-prevent-it-in-node-js-03580b6acd67?source=your_stories_page-------------------------------------)
 
 :bookmark: [implement a simple version control with javascript to understand git better](https://medium.com/gitconnected/implement-a-simple-version-control-with-javascript-to-understand-git-better-2307001dfe00?source=your_stories_page-------------------------------------)
