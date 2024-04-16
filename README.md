@@ -21,6 +21,9 @@ With over 6 years of experience as a web developer, I have honed my skills in bo
 
 ## My Latest Articles on Medium
 
+Apr 16, 2024 :bookmark: [Behind the Scenes of useState: Implementation Insights
+](https://levelup.gitconnected.com/behind-the-scenes-of-usestate-implementation-insights-fd7e28707e10)
+
 Mar 24, 2024 :bookmark: [Could Converting Nodejs Functions to C++ Add-On Boost Your Code Performance
 ](https://p-shaddel.medium.com/could-converting-nodejs-functions-to-c-add-on-boost-your-code-performance-988e3cc890c4?source=user_profile---------0----------------------------
 )
