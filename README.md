@@ -21,6 +21,11 @@ With over 6 years of experience as a web developer, I have honed my skills in bo
 
 ## My Latest Articles on Medium
 
+Dec 03, 2024 :bookmark: [PostgreSQL Shared Buffer, What Backend Developers Should Know](https://levelup.gitconnected.com/postgresql-shared-buffer-what-backend-developers-should-know-069e73bec469)
+
+Oct 13, 2024 :bookmark: [Number of System Calls in a Simple Nodejs Read File
+](https://levelup.gitconnected.com/number-of-system-calls-in-a-simple-nodejs-read-file-bcf034f438f0)
+
 Apr 16, 2024 :bookmark: [Behind the Scenes of useState: Implementation Insights
 ](https://levelup.gitconnected.com/behind-the-scenes-of-usestate-implementation-insights-fd7e28707e10)
 
