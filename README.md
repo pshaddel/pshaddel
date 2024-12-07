@@ -26,6 +26,11 @@ Dec 03, 2024 :bookmark: [PostgreSQL Shared Buffer, What Backend Developers Shoul
 Oct 13, 2024 :bookmark: [Number of System Calls in a Simple Nodejs Read File
 ](https://levelup.gitconnected.com/number-of-system-calls-in-a-simple-nodejs-read-file-bcf034f438f0)
 
+Oct 06, 2024 :bookmark: [PostgreSQL Clustered Index: When to Use? Does it Worth?
+](https://levelup.gitconnected.com/postgresql-clustered-index-when-to-use-does-it-worth-2258a644b02c)
+
+Oct 06, 2024 :bookmark: [How MongoDB Time Series Collection Works Under the Hood](https://levelup.gitconnected.com/how-mongodb-time-series-collection-works-under-the-hood-2348f3a2318e)
+
 Apr 16, 2024 :bookmark: [Behind the Scenes of useState: Implementation Insights
 ](https://levelup.gitconnected.com/behind-the-scenes-of-usestate-implementation-insights-fd7e28707e10)
 
