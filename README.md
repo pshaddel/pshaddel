@@ -21,6 +21,14 @@ With over 6 years of experience as a web developer, I have honed my skills in bo
 
 ## My Latest Articles on Medium
 
+Jan 19, 2025 :bookmark: [Why Knowing TOAST in PostgreSQL is necessary for Backend Devs!
+](https://levelup.gitconnected.com/why-knowing-toast-in-postgresql-is-necessary-for-backend-devs-340da420971a)
+
+Jan 07, 2025 :bookmark: [Can We Test Postgres at the Database Level? From Functions to Indexes, Here’s How!
+](https://levelup.gitconnected.com/can-we-test-postgres-at-the-database-level-from-functions-to-indexes-heres-how-8830b56041cf)
+
+Dec 03, 2024 :bookmark: [PostgreSQL Shared Buffer, What Backend Developers Should Know](https://levelup.gitconnected.com/postgresql-shared-buffer-what-backend-developers-should-know-069e73bec469)
+
 Dec 03, 2024 :bookmark: [PostgreSQL Shared Buffer, What Backend Developers Should Know](https://levelup.gitconnected.com/postgresql-shared-buffer-what-backend-developers-should-know-069e73bec469)
 
 Oct 13, 2024 :bookmark: [Number of System Calls in a Simple Nodejs Read File
