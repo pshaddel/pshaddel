@@ -21,53 +21,56 @@ I am Full-Stack Developer with 7 years of experience. I love to dive deep into t
 
 ## My Latest Articles on Medium
 
-Jan 19, 2025 :bookmark: [Why Knowing TOAST in PostgreSQL is necessary for Backend Devs!
-](https://levelup.gitconnected.com/why-knowing-toast-in-postgresql-is-necessary-for-backend-devs-340da420971a)
+:bookmark: [Basic DNS Resolution for Backend Devs + Quiz!!
+](https://levelup.gitconnected.com/basic-dns-resolution-for-backend-devs-quiz-ccbf13198fe2) March 25, 2025
 
-Jan 07, 2025 :bookmark: [Can We Test Postgres at the Database Level? From Functions to Indexes, Here’s How!
-](https://levelup.gitconnected.com/can-we-test-postgres-at-the-database-level-from-functions-to-indexes-heres-how-8830b56041cf)
+:bookmark: [Why Knowing TOAST in PostgreSQL is necessary for Backend Devs!
+](https://levelup.gitconnected.com/why-knowing-toast-in-postgresql-is-necessary-for-backend-devs-340da420971a) Jan 19, 2025
 
-Dec 03, 2024 :bookmark: [PostgreSQL Shared Buffer, What Backend Developers Should Know](https://levelup.gitconnected.com/postgresql-shared-buffer-what-backend-developers-should-know-069e73bec469)
+:bookmark: [Can We Test Postgres at the Database Level? From Functions to Indexes, Here’s How!
+](https://levelup.gitconnected.com/can-we-test-postgres-at-the-database-level-from-functions-to-indexes-heres-how-8830b56041cf) Jan 07, 2025
 
-Dec 03, 2024 :bookmark: [PostgreSQL Shared Buffer, What Backend Developers Should Know](https://levelup.gitconnected.com/postgresql-shared-buffer-what-backend-developers-should-know-069e73bec469)
+:bookmark: [PostgreSQL Shared Buffer, What Backend Developers Should Know](https://levelup.gitconnected.com/postgresql-shared-buffer-what-backend-developers-should-know-069e73bec469) Dec 03, 2024
 
-Oct 13, 2024 :bookmark: [Number of System Calls in a Simple Nodejs Read File
-](https://levelup.gitconnected.com/number-of-system-calls-in-a-simple-nodejs-read-file-bcf034f438f0)
+:bookmark: [PostgreSQL Shared Buffer, What Backend Developers Should Know](https://levelup.gitconnected.com/postgresql-shared-buffer-what-backend-developers-should-know-069e73bec469) Dec 03, 2024
 
-Oct 06, 2024 :bookmark: [PostgreSQL Clustered Index: When to Use? Does it Worth?
-](https://levelup.gitconnected.com/postgresql-clustered-index-when-to-use-does-it-worth-2258a644b02c)
+:bookmark: [Number of System Calls in a Simple Nodejs Read File
+](https://levelup.gitconnected.com/number-of-system-calls-in-a-simple-nodejs-read-file-bcf034f438f0) Oct 13, 2024
 
-Oct 06, 2024 :bookmark: [How MongoDB Time Series Collection Works Under the Hood](https://levelup.gitconnected.com/how-mongodb-time-series-collection-works-under-the-hood-2348f3a2318e)
+:bookmark: [PostgreSQL Clustered Index: When to Use? Does it Worth?
+](https://levelup.gitconnected.com/postgresql-clustered-index-when-to-use-does-it-worth-2258a644b02c) Oct 06, 2024
 
-Apr 16, 2024 :bookmark: [Behind the Scenes of useState: Implementation Insights
-](https://levelup.gitconnected.com/behind-the-scenes-of-usestate-implementation-insights-fd7e28707e10)
+:bookmark: [How MongoDB Time Series Collection Works Under the Hood](https://levelup.gitconnected.com/how-mongodb-time-series-collection-works-under-the-hood-2348f3a2318e) Oct 06, 2024
 
-Mar 24, 2024 :bookmark: [Could Converting Nodejs Functions to C++ Add-On Boost Your Code Performance
+:bookmark: [Behind the Scenes of useState: Implementation Insights
+](https://levelup.gitconnected.com/behind-the-scenes-of-usestate-implementation-insights-fd7e28707e10) Apr 16, 2024
+
+:bookmark: [Could Converting Nodejs Functions to C++ Add-On Boost Your Code Performance
 ](https://p-shaddel.medium.com/could-converting-nodejs-functions-to-c-add-on-boost-your-code-performance-988e3cc890c4?source=user_profile---------0----------------------------
-)
+) Mar 24, 2024
 
-Mar 08, 2024 :bookmark: [Antipatterns Series with JavaScript Examples: The Blob, The God Class](https://p-shaddel.medium.com/antipatterns-series-with-javascript-examples-the-blob-the-god-class-b2104c1cdfc7?source=user_profile---------1----------------------------
-)
+:bookmark: [Antipatterns Series with JavaScript Examples: The Blob, The God Class](https://p-shaddel.medium.com/antipatterns-series-with-javascript-examples-the-blob-the-god-class-b2104c1cdfc7?source=user_profile---------1----------------------------
+) Mar 08, 2024
 
-Dec 26, 2023 :bookmark: [why implementing your own username password authentication system could be a big mistake](https://p-shaddel.medium.com/why-implementing-your-own-username-password-authentication-system-could-be-a-big-mistake-cdac9d479b14?source=user_profile---------2----------------------------)
+:bookmark: [why implementing your own username password authentication system could be a big mistake](https://p-shaddel.medium.com/why-implementing-your-own-username-password-authentication-system-could-be-a-big-mistake-cdac9d479b14?source=user_profile---------2----------------------------) Dec 26, 2023
 
-Nov 13, 2023 :bookmark: [what is session fixation and how to prevent it in nodejs](https://medium.com/gitconnected/what-is-session-fixation-and-how-to-prevent-it-in-node-js-03580b6acd67?source=your_stories_page-------------------------------------)
+:bookmark: [what is session fixation and how to prevent it in nodejs](https://medium.com/gitconnected/what-is-session-fixation-and-how-to-prevent-it-in-node-js-03580b6acd67?source=your_stories_page-------------------------------------) Nov 13, 2023
 
-Oct 29, 2023 :bookmark: [implement a simple version control with javascript to understand git better](https://medium.com/gitconnected/implement-a-simple-version-control-with-javascript-to-understand-git-better-2307001dfe00?source=your_stories_page-------------------------------------)
+:bookmark: [implement a simple version control with javascript to understand git better](https://medium.com/gitconnected/implement-a-simple-version-control-with-javascript-to-understand-git-better-2307001dfe00?source=your_stories_page-------------------------------------) Oct 29, 2023
 
-Sep 03, 2023 :bookmark: [comparing prisma and mongoose for mongodb a comprehensive analysis](https://p-shaddel.medium.com/comparing-prisma-and-mongoose-for-mongodb-a-comprehensive-analysis-531c656fc118?source=user_profile---------0----------------------------)
+:bookmark: [comparing prisma and mongoose for mongodb a comprehensive analysis](https://p-shaddel.medium.com/comparing-prisma-and-mongoose-for-mongodb-a-comprehensive-analysis-531c656fc118?source=user_profile---------0----------------------------) Sep 03, 2023
 
-Aug 22, 2023 🔖 [exploring parallelism and concurrency in node js](https://p-shaddel.medium.com/exploring-parallelism-and-concurrency-in-node-js-4b84c2f397b?source=user_profile---------1----------------------------)
+🔖 [exploring parallelism and concurrency in node js](https://p-shaddel.medium.com/exploring-parallelism-and-concurrency-in-node-js-4b84c2f397b?source=user_profile---------1----------------------------) Aug 22, 2023
 
-Jun 12, 2023 :bookmark: [mongodb index challenge learn by doing](https://p-shaddel.medium.com/mongodb-index-challenge-learn-by-doing-483ed4daf0cb) 
+:bookmark: [mongodb index challenge learn by doing](https://p-shaddel.medium.com/mongodb-index-challenge-learn-by-doing-483ed4daf0cb) Jun 12, 2023
 
-May 28, 2023 :bookmark: [how to prevent no sql injection in node js](https://p-shaddel.medium.com/how-to-prevent-no-sql-injection-in-node-js-e743cf7d3771?source=user_profile---------0----------------------------)
+:bookmark: [how to prevent no sql injection in node js](https://p-shaddel.medium.com/how-to-prevent-no-sql-injection-in-node-js-e743cf7d3771?source=user_profile---------0----------------------------) May 28, 2023
 
-May 25, 2023 :bookmark: [how to prevent ssrf attacks in node js](https://p-shaddel.medium.com/how-to-prevent-ssrf-attacks-in-node-js-50ccbb1c31da?source=user_profile---------1----------------------------)
+:bookmark: [how to prevent ssrf attacks in node js](https://p-shaddel.medium.com/how-to-prevent-ssrf-attacks-in-node-js-50ccbb1c31da?source=user_profile---------1----------------------------) May 25, 2023
 
-Mar 13, 2023 :bookmark: [boost your productivity simple tips for developers](https://p-shaddel.medium.com/boost-your-productivity-simple-tips-for-developers-448724cb1d9c?source=user_profile---------2----------------------------)
+:bookmark: [boost your productivity simple tips for developers](https://p-shaddel.medium.com/boost-your-productivity-simple-tips-for-developers-448724cb1d9c?source=user_profile---------2----------------------------) Mar 13, 2023
 
-Jan 02, 2023 :bookmark: [build your first node js web framework](https://p-shaddel.medium.com/build-your-first-node-js-web-framework-39b3310ed35a?source=user_profile---------3----------------------------)
+:bookmark: [build your first node js web framework](https://p-shaddel.medium.com/build-your-first-node-js-web-framework-39b3310ed35a?source=user_profile---------3----------------------------) Jan 02, 2023 
 
 <!-- :bookmark: [expressjs deep dive](https://p-shaddel.medium.com/expressjs-deep-dive-387f07c50d95?source=user_profile---------4----------------------------)
 
